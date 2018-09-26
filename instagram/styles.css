@@ -3,7 +3,6 @@ nav ul li {
 }
 
 nav {
-<<<<<<< HEAD
   float: left;
   display: inline-block;
   padding: 1em;
@@ -27,8 +26,4 @@ li {
   padding: 1em;
   font-size: 24px;
   font-family: sans-serif;
-=======
-  display: inline-block;
-  padding: 1em;
->>>>>>> 2b5ddb486d212d86ece9ad66bee18512c6d2416b
 }
