@@ -3,6 +3,27 @@ nav ul li {
 }
 
 nav {
+  float: left;
   display: inline-block;
   padding: 1em;
+  margin-bottom: 100%;
+}
+
+p {
+  font-size: 24px;
+}
+
+main {
+  padding: 2em;
+}
+
+nav ul {
+  padding: 1em;
+  font-size: 20px;
+}
+
+li {
+  padding: 1em;
+  font-size: 24px;
+  font-family: sans-serif;
 }
